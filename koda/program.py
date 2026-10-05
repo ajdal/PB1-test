@@ -6,9 +6,9 @@ def izpisi_studente(studenti):
         print(student)
 
 
-def find_student(studenti, ime):
+def najdi_studenta(studenti, ime):
     for student in studenti:
-        if student.ime == ime:
+        if ime == ime:
             return student
 
     return None
