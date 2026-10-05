@@ -8,9 +8,9 @@ def izpisi_studente(studenti):
 
 def najdi_studenta(studenti, ime):
     for student in studenti:
-        if ime == ime:
+        if student.ime == ime:
             return student
-    return "Napaka"
+    return None
 
 
 def main():
