@@ -17,6 +17,10 @@ V okviru teh vaj bomo na repozitoriju naredili popoln kaos (ker nas je ogromno i
 
 Na svoj računalnik klonirajte tale repozitorij.
 
+```
+git clone git@github.com:ajdal/PB1-test.git
+```
+
 
 ### Beleženje zgodovine v gitu
 
