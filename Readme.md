@@ -7,3 +7,4 @@ Tekom semestra bom objavljala zapiske vaj, pri urejanju katerih lahko aktivno so
 ## Sodelavci:
 
 * ajdal
+* student1
