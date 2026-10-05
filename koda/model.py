@@ -8,4 +8,4 @@ class Student:
         return self.ime
 
     def opis(self):
-        raise NotImplementedError
+        return f"{self.ime} - {self.letnik}. letnik programa {self.program}"
