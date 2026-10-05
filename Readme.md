@@ -6,7 +6,7 @@ Tekom semestra bom objavljala zapiske vaj, pri urejanju katerih lahko aktivno so
 
 ## Sodelavci:
 
-1. 
+1. alamp
 2. student1
 3. 
 4. 
