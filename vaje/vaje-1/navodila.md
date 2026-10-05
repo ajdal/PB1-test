@@ -40,7 +40,7 @@ Datoteko nato dodajte v git in jo pošljite na strežnik. Se pri tem pojavi kak�
 
 ### Urejanje istega dokumenta 
 
-
+Reševanje konflikta
 
 ### Urejanje iste vrstice 😱
 Odprite datoteko `Readme.md` in v sekcijo `Sodelavci` dodajte točko s svojim imenom. 
