@@ -8,3 +8,4 @@ Git sem uporabil pri delu v podjetju in za nekaj osebnih projektov.
 Kako deluje cherry-pick?
 4. Vas glede dela z gitom skrbi kaj konkretnega?
 Ne.
+5. Kava ali čaj?
