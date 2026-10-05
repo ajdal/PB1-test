@@ -11,7 +11,7 @@
 
 Vaje bomo izvajali vodeno in sočasno (prosim, ne prehitevajte), da lahko skupaj obdelamo najpogostejše scenarije dela z gitom.
 
-V okviru teh vaj bomo na repozitoriju naredili popoln kaos (ker nas je ogromno in vsi delamo hkrati!). Upam, da bodo vse težave, na katerem naletite pri delu v parih na seminarski nalogi, v primerjavi s tem minimalne.
+V okviru teh vaj bomo na repozitoriju naredili popoln kaos (ker nas je ogromno in vsi delamo hkrati!) in stvari bodo verjetno šle narobe - ampak jih bomo rešili. Upam, da bodo vse težave, na katerem naletite pri delu v parih na seminarski nalogi, v primerjavi s tem minimalne.
 
 ### Kloniranje repozitorija
 
