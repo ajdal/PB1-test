@@ -3,7 +3,7 @@ from branje_podatkov import nalozi_studente
 
 def izpisi_studente(studenti):
     for student in studenti:
-        print(student)
+        print(student.opis())
 
 
 def najdi_studenta(studenti, ime):
