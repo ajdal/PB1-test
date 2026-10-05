@@ -9,4 +9,4 @@ Kako v praksi sodelujem z večjo skupino razvijalcev?
 4. Vas glede dela z gitom skrbi kaj konkretnega?
 Veliko možnih problemov.
 5. Morje ali hribi?
-Morje.
+Brez dvoma hribi!!
