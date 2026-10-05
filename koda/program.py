@@ -15,7 +15,7 @@ def find_student(studenti, ime):
 
 
 def main():
-    studenti = nalozi_studente("students.csv")
+    studenti = nalozi_studente("koda/studenti.csv")
 
     print("Pozdravljen svet!")
     print()
