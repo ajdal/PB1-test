@@ -10,7 +10,7 @@ def najdi_studenta(studenti, ime):
     for student in studenti:
         if ime == ime:
             return student
-    return "Napaka"
+    return None
 
 
 def main():
