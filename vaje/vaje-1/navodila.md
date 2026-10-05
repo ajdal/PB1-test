@@ -34,6 +34,13 @@ Na konec datoteke dodajte še 4. vprašanje, ki se nanaša na preference glede k
 
 Datoteko nato dodajte v git in jo pošljite na strežnik. Se pri tem pojavi kakšna težava? Kako bi jo rešili?
 
+Težava 1:
+Add user name:
+```
+git config user.name <username>
+git config user.email <email>
+```
+
 ### Urejanje istega dokumenta 
 
 
